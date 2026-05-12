@@ -14,7 +14,7 @@
 
 （3）分析测量重复性。
 
-![alt text](assets/image.png)
+![alt text](../assets/image.png)
 
 ## 要求
 

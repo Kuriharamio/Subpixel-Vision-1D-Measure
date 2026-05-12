@@ -321,11 +321,11 @@ double d2 = e_inner_bot.t - e_inner_top.t;   // 内亮区宽度
 
 `results/1_result.png` (示例)：
 
-![image 1](results/1_result.png)
+![image 1](../results/1_result.png)
 
 `results/6_result.png`：
 
-![image 6](results/6_result.png)
+![image 6](../results/6_result.png)
 
 * 深红色实线圆即 Taubin 拟合的左 / 右圆弧，几乎与外缘完全贴合。
 * 深绿色小点是用于圆拟合的 41 个径向亚像素点 (RANSAC 内点)。
